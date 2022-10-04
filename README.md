@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CristianosLeite
-- 👀 I’m interested in ... Python
+- 👀 I’m interested in ... Programming
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Python
 - 📫 How to reach me ... cristianosleite@hotmail.com
