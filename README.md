@@ -1,20 +1,42 @@
 - 👋 Hi, I’m @CristianosLeite
-- 👀 I’m interested in to learn
-- 🌱 I’m currently learning Python, Typescript, data analysis, BI and software engineering
-- 💞️ I’m looking to collaborate on ... Anything
-- 📫 How to reach me ... cristianosleite@hotmail.com
+- 👀 I’m interested in data science and software engineering
+- 🌱 I’m currently learning data science and software engineering
+- 💞️ I’m looking to collaborate on data science and software engineering projects
+- 📫 How to reach me: cristianosleite@hotmail.com
 
 <h2>About me:</h2>
 
-I am an enthusiast of technology, programming and bass player in the free times, you can find some covers in my page on Instagram <a href="https://instagram.com/crissilva_l?igshid=ZGUzMzM3NWJiOQ==">@crissilva_l</a>. Don't worry if you come across a closed profile, that's why I'm a reserved person when we are talking about my personal life, but you're welcome to send an invite.
+I am a technology enthusiast, programmer, and bass player in my free time. You can find some of my covers on my Instagram page <a href="https://instagram.com/crissilva_l?igshid=ZGUzMzM3NWJiOQ==">@crissilva_l</a>. Don't worry if you encounter a private profile, I am quite reserved when it comes to my personal life, but feel free to send an invite.
 
 <h2>What I've learned so far</h2>
 
-Today the main tools I use are part of the Microsoft stack, such as excel, power query, power bi and power automate. Still in the analysis part, I use the pandas and python framework a lot to generate reports. As a developer, I've been using python and Qt, C# and .Net, Ionic, Angular and building rest API's with NestJs and Typescript. I have knowledge about SQL and relational databases, mainly PostgresSQL.
+I have been studying data science and software engineering for some time. I am proficient in Python, C#, JavaScript, TypeScript, XAML, HTML, CSS, SQL, and currently working with .Net, Node.js, Nestjs, Angular, and PostgreSQL. I have experience in data analysis, data visualization and software development.
 
 <h2>What I'm looking for</h2>
 
-I started my studies in data science and software engineering in addition to expanding my knowledge, seeking a position within the technology area with a focus on data science.
+I began my studies in data science and software engineering to expand my knowledge and am seeking a position in the technology field with a focus on data science.
+
+<h2>What I'm doing now</h2>
+I work for a company that develops software for various industries. As a full-stack developer, I design and develop software for the company's clients.
+
+&nbsp;
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianosLeite&layout=compact)
+
+&nbsp;
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=c-sharp)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
+![.Net](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 <!---
 CristianosLeite/CristianosLeite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
