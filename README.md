@@ -10,7 +10,7 @@ I am a technology enthusiast, programmer, and bass player in my free time. You c
 
 <h2>What I've learned so far</h2>
 
-I have been studying data science and software engineering for some time. I am proficient in Python, C#, JavaScript, TypeScript, XAML, HTML, CSS, SQL, and currently working with .Net, Node.js, Nestjs, Angular, and PostgreSQL. I have experience in data analysis, data visualization and software development.
+I have been studying data science and software engineering for some time. I am proficient in Python, C#, JavaScript, TypeScript, XAML, HTML, CSS, SQL, and currently working with .Net, Node.js, Nestjs, Angular, and PostgreSQL. I have experience in data analysis, data visualization and software development. I also have experience deploying applications in environments like Heroku and VPS using Docker and GitHub Actions.
 
 <h2>What I'm looking for</h2>
 
@@ -36,7 +36,10 @@ I work for a company that develops software for various industries. As a full-st
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![SQLserver](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 <!---
 CristianosLeite/CristianosLeite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
