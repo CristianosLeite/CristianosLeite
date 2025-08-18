@@ -1,47 +1,124 @@
-- 👋 Hi, I’m @CristianosLeite
-- 👀 I’m interested in data science and software engineering
-- 🌱 I’m currently learning data science and software engineering
-- 💞️ I’m looking to collaborate on data science and software engineering projects
-- 📫 How to reach me: cristianosleite@hotmail.com
+# Cristiano Leite
 
-<h2>About me:</h2>
+### Engenheiro de Software IT/OT | Data Science | IoT | Inteligência Artificial
 
-I am a technology enthusiast, programmer, and bass player in my free time. You can find some of my covers on my Instagram page <a href="https://instagram.com/crissilva_l?igshid=ZGUzMzM3NWJiOQ==">@crissilva_l</a>. Don't worry if you encounter a private profile, I am quite reserved when it comes to my personal life, but feel free to send an invite.
+---
 
-<h2>What I've learned so far</h2>
+## 🚀 Sobre Mim
 
-I have been studying data science and software engineering for some time. I am proficient in Python, C#, JavaScript, TypeScript, XAML, HTML, CSS, SQL, and currently working with .Net, Node.js, Nestjs, Angular, and PostgreSQL. I have experience in data analysis, data visualization and software development. I also have experience deploying applications in environments like Heroku and VPS using Docker and GitHub Actions.
+Sou **Engenheiro de Software IT/OT** na **Conecsa Automação**, especializado no desenvolvimento de soluções tecnológicas para a indústria. Minha experiência abrange **Data Science**, **Internet das Coisas (IoT)**, e desenvolvimento multiplataforma.
 
-<h2>What I'm looking for</h2>
+Atualmente, foco em integrar **Inteligência Artificial** aos sistemas que desenvolvo, criando soluções mais eficientes e produtivas. Também desenvolvo **servidores MCPs personalizados** que utilizo como ferramentas de apoio no desenvolvimento diário.
 
-I began my studies in data science and software engineering to expand my knowledge and am seeking a position in the technology field with a focus on data science.
+---
 
-<h2>What I'm doing now</h2>
-I work for a company that develops software for various industries. As a full-stack developer, I design and develop software for the company's clients.
+## 💻 Stack Tecnológica
 
-&nbsp;
+### **Linguagens**
+- **Backend:** C#, Java, Kotlin, Python
+- **Frontend:** JavaScript, TypeScript
+- **Mobile:** Java, Kotlin
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianosLeite&layout=compact)
+### **Frameworks & Tecnologias**
+- **.NET Ecosystem:** ASP.NET, XAML, Entity Framework
+- **Node.js Ecosystem:** Express.js, NestJS
+- **Frontend:** Angular
+- **Mobile:** Android Development, Ionic
+- **Java:** Spring Framework, JPA
 
-&nbsp;
+### **Bancos de Dados**
+- **Relacionais:** SQL Server, PostgreSQL, SQLite, MySQL
+- **NoSQL:** MongoDB, Cassandra
+- **ORMs:** TypeORM, Sequelize, Entity Framework, JPA
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=c-sharp)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
-![.Net](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![SQLserver](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+### **DevOps & Infraestrutura**
+- **Servidores:** Apache, Nginx
+- **Containerização:** Docker
+- **CI/CD:** GitHub Actions
+- **Cloud:** AWS, VPS
 
-<!---
-CristianosLeite/CristianosLeite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### **Sistemas Operacionais**
+- Linux, Windows, Android, Web
+
+---
+
+## 🔧 Áreas de Atuação
+
+- **Desenvolvimento Full-Stack**
+- **Soluções IoT Industriais**
+- **Data Science & Analytics**
+- **Integração de Sistemas IT/OT**
+- **Inteligência Artificial**
+- **Automação Industrial**
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianosLeite&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Projetos em Destaque
+
+- **🤖 Servidores MCP Personalizados**: Ferramentas customizadas para otimização do desenvolvimento
+- **📊 Soluções IoT Industriais**: Sistemas de monitoramento e controle para automação
+- **🧠 Integração de IA**: Implementação de modelos de IA em sistemas produtivos
+- **⚙️ Sistemas IT/OT**: Bridges entre tecnologia da informação e operacional
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-cristianosleite@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianosleite@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristiano-leite)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/crissilva_l)
+
+</div>
+
+---
+
+<div align="center">
+  
+**"Desenvolvendo o futuro com tecnologia e inovação"**
+
+</div>
